@@ -3,3 +3,4 @@
 - 本代码利用Tkinter做了图形界面，可通过pyinstall打包成exe文件，方便不会python的人使用
 
 ![graph_sample](https://github.com/Snowing-ST/Table-Recognition/blob/master/graph_sample.png)
+![graph_sample](https://github.com/Snowing-ST/Table-Recognition/blob/master/graph_sample2.png)
